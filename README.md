@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CaioCastro00/CaioCastro00/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/CaioCastro00/CaioCastro00/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ![](https://komarev.com/ghpvc/?username=CaioCastro00&color=006bed)
