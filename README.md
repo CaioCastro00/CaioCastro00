@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Caio Castro!</h2>
-<h3> :man: &nbsp;About me: </h3>
 <img align="right" height="150" src="https://firebasestorage.googleapis.com/v0/b/jornadadev-da00c.appspot.com/o/gifmaker_me.gif?alt=media&token=ddc7b49c-fe5d-4d9f-a00c-c0578ac53384"  />
+<h3> :man: &nbsp;About me: </h3>
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Control and Automation Engineering at  <a href="[link da sua faculdade](https://ufrj.br/)">the Federal University of Rio de Janeiro</a>.
