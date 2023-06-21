@@ -54,6 +54,7 @@
 ###
 
 <br clear="both">
+![Snake animation](https://github.com/CaioCastro00/CaioCastro00/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ![](https://komarev.com/ghpvc/?username=CaioCastro00&color=006bed)
