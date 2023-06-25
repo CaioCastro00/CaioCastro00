@@ -7,7 +7,7 @@
 <h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> &nbsp;About me: </h3>
 
 - 🤔 &nbsp; Developing my skills and exploring new technologies solutions.
-- 🎓 &nbsp; Studying Control and Automation Engineering at  <a href="[link da sua faculdade](https://ufrj.br/)">the Federal University of Rio de Janeiro</a>.
+- 🎓 &nbsp; Studying Control and Automation Engineering at the [Federal University of Rio de Janeiro](https://ufrj.br/).
 - 🔭 &nbsp; I’m currently working on `FaceRecog_CV`.
 - 🌱 &nbsp; Learning more about Python, C++ and UX/UI.
 
