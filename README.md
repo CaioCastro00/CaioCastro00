@@ -71,5 +71,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaioCastro00&color=006bed"/>
+  <a href="README.md"><img src="https://badgen.net/badge/ /English/black?labelColor=green" align="left"/></a>
+  <a href="README_pt.md"><img src="https://badgen.net/badge/ /Português/black?labelColor=gray" align="left"/></a>
+  <img src="https://komarev.com/ghpvc/?username=CaioCastro00&color=006bed" align="right"/>
 </div>
