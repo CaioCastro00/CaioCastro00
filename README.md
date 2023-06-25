@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCastro00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials
 <div align="center">
   <a href="https://github.com/CaioCastro00" target="blank" rel="noreferrer noopener"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="github logo"/></a>
   <a href="https://www.linkedin.com/in/caio-henrique-lopes-de-castro-36b548280/" target="blank" rel="noreferrer noopener"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
