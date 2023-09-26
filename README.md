@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Developing my skills and exploring new technologies solutions.
 - 🎓 &nbsp; Studying Control and Automation Engineering at the [Federal University of Rio de Janeiro](https://ufrj.br/).
-- 🔭 &nbsp; I’m currently working on `FaceRecog_CV`.
+- 🔭 &nbsp; I’m currently working on `Projeto_rede_de_computadores`.
 - 🌱 &nbsp; Learning more about Python, C++ and UX/UI.
 
 
