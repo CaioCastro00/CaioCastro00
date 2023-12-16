@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Desenvolvendo minhas habilidades e explorando novas soluções tecnológicas.
 - 🎓 &nbsp; Cursando Engenharia de Controle e Automação na [Universidade Federal do Rio de Janeiro](https://ufrj.br/).
-- 🔭 &nbsp; Atualmente, estou trabalhando em `Projeto_rede_de_computadores`.
+- 🔭 &nbsp; Atualmente, estou trabalhando em `Sensor-Expansion`.
 - 🌱 &nbsp; Aprendendo mais sobre Python, C++ e UX/UI.
 
 
