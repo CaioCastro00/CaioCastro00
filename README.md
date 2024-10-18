@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Developing my skills and exploring new technologies solutions.
 - 🎓 &nbsp; Studying Control and Automation Engineering at the [Federal University of Rio de Janeiro](https://ufrj.br/).
-- 🔭 &nbsp; I’m currently working on `Sensor-Expansion`.
+- 🔭 &nbsp; I’m currently working on `SensorFusion`.
 - 🌱 &nbsp; Learning more about Python, C++ and UX/UI.
 
 
